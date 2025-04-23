@@ -14,7 +14,7 @@ aus der Hauptdatei `main.py` erhält als Eingabe ein Array von reellen Zahlen, b
 * `j`: Der Index der Endzahl (startet bei `1`)
 * `sum`: Die Summe von der `i`-ten Zahl (inklusiv) bis zur `j`-ten Zahl (inklusiv)
 
-Die Bedingungen, unter der die Funktion eine solche Ausgabe erzeugt, lauten folgendermaßen: 
+Die Bedingungen, unter denen die Funktion eine solche Ausgabe erzeugt, lauten folgendermaßen: 
 
 * Eingabe `arr` ist ein Array von `n` Fließkommazahlen `(z`<sub>`1`</sub>`, ..., z`<sub>`n`</sub>`)`, mit `n >= 1`
 * Es muss gelten: `0 < i <= j <= n`
