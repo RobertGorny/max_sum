@@ -10,11 +10,14 @@ Die Funktion
 ```
 aus der Hauptdatei `main.py` erhält als Eingabe ein Array von reellen Zahlen, bzw. Fließkommazahlen, und gibt ein Objekt der Klasse `Solution` (siehe `main.py`) aus, welches folgende Informationen als Attrubute enthält:
 
-```
-i: Der Index der Anfangszahl (startet bei 1)
-j: Der Index der Endzahl (startet bei 1)
-sum: Die Summe von der i-ten Zahl (inklusiv) bis zur j-ten Zahl (inklusiv)
-```
+* `i`: Der Index der Anfangszahl (startet bei `1`)
+* `j`: Der Index der Endzahl (startet bei `1`)
+* `sum`: Die Summe von der `i`-ten Zahl (inklusiv) bis zur `j`-ten Zahl (inklusiv)
+
+Die Bedingungen, unter der die Funktion eine solche Ausgabe erzeugt, lauten folgendermaßen: 
+
+* Eingabe `arr` ist ein Array von `n` Fließkommazahlen `(z<sub>1</sub>, ..., z<sub>n</sub)`, `n >= 1`
+* Es muss gelten: `0 < i <= j < n`
 
 Die Testdatei `test.py` ist dafür gedacht, die Funktion `max_sum(arr)`  zu testen. Dafür werden für verschiedene Eingaben überprüft, ob die Funktion jeweils eine korrekte Ausgabe erzeugt.
 
@@ -35,6 +38,4 @@ python3 test.py
 ```
 
 Voraussetzung ist, dass Python 3 auf der lokalen Maschine installiert ist.
-
-
 
