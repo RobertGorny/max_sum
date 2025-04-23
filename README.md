@@ -16,7 +16,7 @@ aus der Hauptdatei `main.py` erhält als Eingabe ein Array von reellen Zahlen, b
 
 Die Bedingungen, unter der die Funktion eine solche Ausgabe erzeugt, lauten folgendermaßen: 
 
-* Eingabe `arr` ist ein Array von `n` Fließkommazahlen `(z`<sub>`1`</sub>`, ..., z`<sub>`n`</sub>`)`, mit `n >= 1`
+* Eingabe `arr` ist ein Array von `n` Fließkommazahlen `(z`z<sub>1</sub>`, ..., z`<sub>`n`</sub>`)`, mit `n >= 1`
 * Es muss gelten: `0 < i <= j < n`
 
 Die Testdatei `test.py` ist dafür gedacht, die Funktion `max_sum(arr)`  zu testen. Dafür werden für verschiedene Eingaben überprüft, ob die Funktion jeweils eine korrekte Ausgabe erzeugt.
