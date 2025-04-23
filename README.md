@@ -1,5 +1,5 @@
 # max_sum
-## Aus der Vorlesung: Problem der Maximale Summe
+## Aus der Vorlesung: Problem der Maximalen Summe
 
 Quelle: [hier](https://elearning.uni-bayreuth.de/pluginfile.php/2415891/mod_resource/content/6/1handout.pdf) (s. Seite 7)
 
