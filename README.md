@@ -34,7 +34,7 @@ Um die Tests auf der Maschine auszuführen, müssen sowohl `main.py`, als auch `
 python3 test.py 
 ```
 
-Die Voraussetzung ist, dass Python 3 auf der lokalen Maschine installiert ist.
+Voraussetzung ist, dass Python 3 auf der lokalen Maschine installiert ist.
 
 
 
